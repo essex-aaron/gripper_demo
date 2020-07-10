@@ -1,12 +1,12 @@
 <package format="2">
-  <name>Gripper URDF</name>
+  <name>gripper_demo</name>
   <version>1.0.0</version>
   <description>
     <p>URDF Description package for Gripper URDF</p>
     <p>This package contains configuration data, 3D models and launch files
 for Gripper URDF robot</p>
   </description>
-  <author>TODO</author>
+  <author>Aaron Essex</author>
   <maintainer email="essex.a@northeastern.edu" />
   <license>BSD</license>
   <buildtool_depend>catkin</buildtool_depend>
