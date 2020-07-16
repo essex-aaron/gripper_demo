@@ -2,9 +2,9 @@
   <name>gripper_demo</name>
   <version>1.0.0</version>
   <description>
-    <p>URDF Description package for Gripper URDF</p>
+    <p>URDF Description package for gripper_demo</p>
     <p>This package contains configuration data, 3D models and launch files
-for Gripper URDF robot</p>
+for gripper_demo robot</p>
   </description>
   <author>Aaron Essex</author>
   <maintainer email="essex.a@northeastern.edu" />
