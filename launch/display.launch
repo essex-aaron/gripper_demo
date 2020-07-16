@@ -6,7 +6,7 @@
     default="False" />
   <param
     name="robot_description"
-    textfile="$(find Gripper URDF)/urdf/Gripper URDF.urdf" />
+    textfile="$(find gripper_demo)/urdf/Gripper URDF.urdf" />
   <param
     name="use_gui"
     value="$(arg gui)" />
@@ -22,5 +22,5 @@
     name="rviz"
     pkg="rviz"
     type="rviz"
-    args="-d $(find Gripper URDF)/urdf.rviz" />
+    args="-d $(find gripper_demo)/urdf.rviz" />
 </launch>
